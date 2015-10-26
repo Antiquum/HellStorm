@@ -18,3 +18,9 @@ I bring a Trojan perl function using sockets and IRC and has the following optio
 [+] Load word to write only<br>
 [+] DOS Attack: in the case of IRC will be able to make a DDOS attack if they have several infected<br>
 [+] Keylogger Background: upload logs and pictures taken to an FTP server<br>
+
+An image : 
+
+![image](http://doddyhackman.webcindario.com/images/hellstorm.jpg)
+
+Good Bye.
